@@ -1,0 +1,9 @@
+[user]
+	name = Ivens Lima
+	email = ivens_cml@outlook.com
+[diff]
+	tool = vimdiff
+[core]
+	editor = vi
+[pull]
+	rebase = false
